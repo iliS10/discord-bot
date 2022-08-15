@@ -3,3 +3,7 @@
     "prefix": "-",
     "speudo": "PTR Boss"
 }
+
+"scripts": {
+    "start": "node index.js"
+}
