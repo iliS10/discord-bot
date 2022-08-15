@@ -1,0 +1,14 @@
+{ 
+"name": "ptrbot",
+"description": "",
+"authors": "iliS10",
+"version": "1.0.0",
+"main": "index.js",
+"dependencies": {
+    "discord.js":"^12.3.1"
+  },
+
+"script": {
+    "start": "node index.js"
+   }
+}
